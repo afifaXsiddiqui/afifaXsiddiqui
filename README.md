@@ -34,28 +34,11 @@ Through projects, I enjoy experimenting with new ideas, understanding how things
 
 ## Featured Projects
 
-### 📝 QuillNest
-
-A blogging platform built with Next.js and Supabase featuring authentication, role-based access control, AI-powered summaries, and content management.
-
-**Tech:** Next.js • Supabase • Tailwind CSS • Google AI API
-
----
-
-### 💰 SpendWise
-
-Expense tracking dashboard focused on JavaScript fundamentals, LocalStorage persistence, category-wise expense tracking, and spending insights.
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
-### 🌍 WanderWithMe
-
-One of my first web development projects, created to strengthen my understanding of HTML, CSS, and the basics of JavaScript.
-
-**Tech:** HTML • CSS • JavaScript
-
+| Project | Description |
+|----------|-------------|
+| 📝 **QuillNest** | A blogging platform built with Next.js and Supabase featuring authentication, role-based access control, AI-powered summaries, and content management. <br><br> **Tech:** Next.js • Supabase • Tailwind CSS • Google AI API |
+| 💰 **SpendWise** | Expense tracking dashboard focused on JavaScript fundamentals, LocalStorage persistence, category-wise expense tracking, and spending insights. <br><br> **Tech:** HTML • CSS • JavaScript |
+| 🌍 **WanderWithMe** | One of my first web development projects, created to strengthen my understanding of HTML, CSS, and the basics of JavaScript. <br><br> **Tech:** HTML • CSS • JavaScript |
 ---
 
 ## Current Focus
