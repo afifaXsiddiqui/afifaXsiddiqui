@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Banner.png" width="100%" height="220" alt="Afifa Siddiqui Banner" />
+<img src="./Banner.png" width="100%" height="290" alt="Afifa Siddiqui Banner" />
 
 <br>
 
