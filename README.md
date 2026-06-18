@@ -10,7 +10,7 @@ Curious about technology and always looking for something new to build.
 
 <br>
 
-<a href="[[LINKEDIN](https://www.linkedin.com/in/afifa-siddiqui-991a83313/)">
+<a href="https://www.linkedin.com/in/afifa-siddiqui-991a83313/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
