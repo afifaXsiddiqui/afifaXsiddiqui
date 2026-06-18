@@ -4,6 +4,8 @@
 
 <br>
 
+# Afifa Siddiqui
+
 ### Computer Science Student @ Delhi University
 
 Curious about technology and always looking for something new to build.
@@ -26,7 +28,7 @@ Curious about technology and always looking for something new to build.
 
 I'm a Computer Science student at Delhi University with an interest in software development, automation, and building practical digital solutions.
 
-I enjoy turning ideas into projects, learning through hands-on development, and continuously improving my problem-solving skills.
+Through projects, I enjoy experimenting with new ideas, understanding how things work behind the scenes, and gradually expanding my skills across different areas of technology.
 
 ---
 
@@ -34,7 +36,7 @@ I enjoy turning ideas into projects, learning through hands-on development, and 
 
 ### 📝 QuillNest
 
-Modern blogging platform built with Next.js and Supabase featuring authentication, role-based access control, AI-powered summaries, and content management.
+A blogging platform built with Next.js and Supabase featuring authentication, role-based access control, AI-powered summaries, and content management.
 
 **Tech:** Next.js • Supabase • Tailwind CSS • Google AI API
 
@@ -42,7 +44,7 @@ Modern blogging platform built with Next.js and Supabase featuring authenticatio
 
 ### 💰 SpendWise
 
-Expense tracking dashboard focused on JavaScript fundamentals, state-driven UI updates, LocalStorage persistence, and spending insights.
+Expense tracking dashboard focused on JavaScript fundamentals, LocalStorage persistence, category-wise expense tracking, and spending insights.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -50,7 +52,7 @@ Expense tracking dashboard focused on JavaScript fundamentals, state-driven UI u
 
 ### 🌍 WanderWithMe
 
-Responsive travel website built to explore dynamic content rendering, modern UI design, and front-end development fundamentals.
+One of my first web development projects, created to strengthen my understanding of HTML, CSS, and the basics of JavaScript.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -58,10 +60,10 @@ Responsive travel website built to explore dynamic content rendering, modern UI 
 
 ## Current Focus
 
-- Building real-world software projects
+- Building software projects
 - Strengthening problem-solving and DSA
 - Exploring automation workflows
-- Learning modern application development
+- Learning new tools and technologies
 
 ---
 
@@ -85,8 +87,3 @@ Responsive travel website built to explore dynamic content rendering, modern UI 
 - Elementor
 
 ---
-
-## Connect
-
-- LinkedIn: [Add LinkedIn URL]
-- Email: [Add Email]
