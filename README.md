@@ -10,11 +10,11 @@ Curious about technology and always looking for something new to build.
 
 <br>
 
-<a href="[LINKEDIN_URL]">
+<a href="[[LINKEDIN](https://www.linkedin.com/in/afifa-siddiqui-991a83313/)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:[EMAIL]">
+<a href="mailto:afifa.siddiqui04@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
